@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(bg.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+.container{
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
+.container h1{
+    display: inline-block;
+    font-size: 3rem;
+    border-bottom: 5px solid rgba(243, 159, 2, 0.753);
+    margin-bottom: 53px;
+    padding: 13px 0;
+    width: 100%;
+    text-align: center;
+}
+.box{
+    width: 100%;
+    border-bottom: 2px solid rgba(243, 159, 2, 0.753);;
+    margin: 32px 0px;
+}
+.box input{
+    background: none;
+    width: 75%;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 5px 10px;
+    font-size: 13px;
+}
+.box i{
+    width: 25px;
+    text-align: center;
+}
+.btn{
+    cursor: pointer;
+    outline: none;
+    padding: 0 12px;
+    width: 50%;
+    margin: 12px 0;
+    padding: 6px;
+    border: 2px solid rgba(243, 159, 2, 0.753);
+    border-radius: 10px;
+}

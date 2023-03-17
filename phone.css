@@ -1,0 +1,13 @@
+.form{
+    padding: 31px 23px;
+}
+
+.form h2{
+    font-size: 25px;
+}
+.form{
+    font-size: 11px;
+}
+input[type=submit]{
+    font-size: 10px;
+}
